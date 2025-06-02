@@ -20,7 +20,9 @@ Win by guessing all letters before you run out of lives.
 🗂️ Files
 
 hangman.py – main game logic
+
 hangman_words.py – contains the word list
+
 hangman_art.py – contains ASCII art for game stages and the logo
 
 💻 How to Run
